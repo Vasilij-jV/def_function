@@ -3,5 +3,6 @@ def print_params(furniture):
         print(furniture)
 
 print_params(furniture='table')
+fhgn
 
 
